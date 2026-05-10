@@ -1,6 +1,8 @@
 # Hi, I'm Dinura Damsara! 👋
 
-I'm a **Software Engineer & UI/UX Designer** based in Sri Lanka. I am passionate about building scalable web applications, mobile apps, and integrating AI to create intuitive digital experiences.
+I am a 20 year old Designer and WordPress Developer with a passion for creating digital experiences that are both functional and visually stunning. As a student currently balancing academics and professional projects, I specialize in WordPress Web Development, Graphics Design, and UI/UX Design.
+
+What sets my workflow apart is the integration of AI powered tools to enhance efficiency and deliver cutting edge web solutions. I focus on bridging the gap between design aesthetics and technical performance, ensuring every project is optimized for the modern web. I’m always eager to collaborate on innovative projects and connect with like minded professionals in the tech industry.
 
 ### 👨‍💻 About Me
 - 🎓 Currently pursuing an **NVQ Level 5 Diploma in ICT** at the Sri Lanka College of Technology, Maradana.
