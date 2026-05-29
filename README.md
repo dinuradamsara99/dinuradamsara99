@@ -6,7 +6,6 @@ What sets my workflow apart is the integration of AI powered tools to enhance ef
 
 ### 👨‍💻 About Me
 - 🎓 Currently pursuing an **NVQ Level 5 Diploma in ICT** at the Sri Lanka College of Technology, Maradana.
-- 💼 Previously worked full-time as a **Computer Hardware Technician** at Way Detect Holdings (Pvt) Ltd.
 - 💡 I specialize in modern web technologies, mobile app development, and AI integration.
 - 🌱 Continuously learning and exploring new opportunities in full-stack development.
 
